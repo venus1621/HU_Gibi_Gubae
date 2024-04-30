@@ -1,0 +1,35 @@
+.home {
+    background: url(./assets/gallery/image6.jpg);
+    background-position: center;
+    background-repeat:repeat;
+    background-attachment: fixed;
+    height: 100.4vh;
+}
+
+.wellcome {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding-top: 190px;
+}
+
+.wellcome h1 {
+    color: rgb(38, 129, 52);
+    font-size: 43px;
+}
+
+.readmore {
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(104, 97, 0);
+    color: white;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+.readmore:hover {
+    color: rgb(0, 0, 0);
+    background-color: rgb(141, 132, 0);
+}

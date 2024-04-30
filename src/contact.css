@@ -1,0 +1,22 @@
+ footer {
+     background: #0d471c;
+     padding: 6px 16px;
+     color: #888c8d;
+     text-align: center;
+     height: 50px;
+ }
+
+ footer span a {
+     color: #1e3551;
+     text-decoration: none;
+ }
+
+ footer span a:hover {
+     text-decoration: underline;
+ }
+
+ .footer a span {
+     display: flex;
+     margin-top: 10px;
+     color: rgb(255, 255, 255);
+ }

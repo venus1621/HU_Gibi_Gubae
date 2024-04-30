@@ -1,0 +1,16 @@
+/* Events.css */
+.event-container {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+  }
+  
+  .event-card {
+    width: 30%;
+    margin-bottom: 20px;
+  }
+  
+  .event-card img {
+    width: 100%;
+  }
+  
